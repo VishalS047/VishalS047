@@ -1,4 +1,7 @@
 ### Hi there 👋
+__Welcome to my profile, I am Vishal Sharma__
+![Github stats](https://github-readme-stats.vercel.app/api?username=VishalS047)
+
 
 <!--
 **VishalS047/VishalS047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
