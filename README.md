@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **iamvishal047@gmail.com**
 
-- 📄 Know about my experiences [sca](sca)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
