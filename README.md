@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Online Contact Store**
+- 🔭 I’m currently working on **e-Commerce web App**
 
 - 🌱 I’m currently learning **Spring Boot, MongoDB**
 
