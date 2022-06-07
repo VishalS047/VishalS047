@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **Impetus Private Limited**
 
-- 🌱 I’m currently learning **Spring Boot, React JS, Angular JS, Jenkins, Docker**
+- 🌱 I’m currently learning **Spring Boot, React JS, Microservices**
 
 - 👯 I’m looking to collaborate in **open source**
 
